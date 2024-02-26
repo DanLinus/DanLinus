@@ -12,7 +12,9 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanLinus&layout=compact&langs_count=7&theme=dracula"/>
  </div>
   
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DanLinus&bg_color=0d1117&color=fb047b&line=fb7ecd&point=ffbde0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DanLinus&bg_color=0d1117&color=fb047b&line=fb7ecd&point=ffbde0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
   
   <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DanLinus&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
